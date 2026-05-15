@@ -1,6 +1,6 @@
 cask "claude-usage-bar" do
-  version "0.2.0"
-  sha256 "9cea36aa0febbfe07f66554d9fbe41b4ff531140de121f6887451122ce9344f9"
+  version "0.2.1"
+  sha256 "672d087385e8c3d5f1e6758cb05ad482e02531de837c33e5169f85430acd0e2b"
 
   url "https://github.com/sdelanos/claude-usage-bar/releases/download/v#{version}/ClaudeUsageBar-#{version}.zip"
   name "Claude Usage Bar"
